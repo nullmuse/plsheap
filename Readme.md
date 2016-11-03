@@ -6,11 +6,10 @@ PLS HEAP
 ![Screenshot software](https://cloud.githubusercontent.com/assets/18670775/19969394/c0ce9c8c-a1ae-11e6-81a1-331e324c19e1.png "screenshot software")
 
 ## Download
-* [Version X.Y](https://github.com/nullmuse/plsheap/archive/master.zip)
-* Other Versions
+* [Version 1.0](https://github.com/nullmuse/plsheap/archive/master.zip)
 
 ## Usage
-```$ git clone https://github.com/nullmuse/plsheap.git
+```$ git clone https://github.com/nullmuse/plsheap.git\n
    $ cd plsheap
    $ make
    $ ./plstest this is some good data right here
