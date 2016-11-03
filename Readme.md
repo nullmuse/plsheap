@@ -9,11 +9,11 @@ PLS HEAP
 * [Version 1.0](https://github.com/nullmuse/plsheap/archive/master.zip)
 
 ## Usage
-```$ git clone https://github.com/nullmuse/plsheap.git\n
-   $ cd plsheap
-   $ make
-   $ ./plstest this is some good data right here
-...```
+```$ git clone https://github.com/nullmuse/plsheap.git```
+```$ cd plsheap```
+```$ make```
+```$ ./plstest this is some good data right here```
+```...```
 
 ## How-to use this code
 * Run the code and feed it data via arguments. 
